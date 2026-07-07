@@ -6,7 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit)
 ![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange?logo=scikit-learn)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 Aplikasi Web interaktif yang mensimulasikan perjalanan agen cerdas dari Gudang (Start) menuju Konsumen (Goal) di tengah rintangan. Proyek ini mengintegrasikan berbagai konsep **Kecerdasan Buatan (AI)** mulai dari *Uninformed/Informed Search*, *Adversarial Search*, *Probabilistic Reasoning*, hingga *Machine Learning*.
 
