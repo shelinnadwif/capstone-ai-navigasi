@@ -1,7 +1,7 @@
 """
 ========================================================
 app.py  —  Aplikasi Utama (Integrasi oleh Orang 4)
-Capstone Project Kecerdasan Buatan - Kelompok 1
+Capstone Project Kecerdasan Buatan - Kelompok 1 | Amellin ● Andre ● Noval ● Shelinna
 Universitas Mercu Buana — 2026
 
 Struktur:
@@ -43,7 +43,7 @@ st.session_state.setdefault("last_path_length", 6)
 # ── header ───────────────────────────────────────────────────────
 st.title("🚚 Aplikasi Web Navigasi Agen Cerdas & Mini-Game Strategi")
 st.caption(
-    "Capstone Project — Mata Kuliah Kecerdasan Buatan - Kelompok 1 | "
+    "Capstone Project — Mata Kuliah Kecerdasan Buatan - Kelompok 1 | Amellin ● Andre ● Noval ● Shelinna |"
     "Universitas Mercu Buana 2026"
 )
 st.markdown("---")
