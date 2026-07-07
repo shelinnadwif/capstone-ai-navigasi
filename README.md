@@ -1,7 +1,7 @@
 # 🚚 Smart Agent Navigation & Strategy Mini-Game
 
 > **Capstone Project — Mata Kuliah Kecerdasan Buatan**  
-> **Kelompok 1 | Amellin (\bullet \) Andre (\bullet \) Noval (\bullet \) Shelinna**
+> **Kelompok 1 | Amellin ● Andre ● Noval ● Shelinna**
 > **Universitas Mercu Buana — 2026**
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
